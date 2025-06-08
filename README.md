@@ -1,6 +1,6 @@
-# Dynamics prompt routing
+# Dynamic prompt routing
 
-This repo implements the following process to 
+This repo implements the following process:
 
 1. cluster prompts using text embeddings
 2. send prompts to Gemini and Llama
